@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Nom,ID Référence produit,Prix,Stock
 Produit A,REF001,49.99,100
 Produit B,REF002,19.99,50
 Produit C,REF003,29.99,75
 Produit D,REF004,79.99,120
 Produit E,REF005,39.99,80
+=======
+Nom,ID Référence produit,Prix,Stock
+Produit A,REF001,49.99,100
+Produit B,REF002,19.99,50
+Produit C,REF003,29.99,75
+Produit D,REF004,79.99,120
+Produit E,REF005,39.99,80
+>>>>>>> 9d3cdb774cc5b68780c0e5e7faa7575503b2b06a
